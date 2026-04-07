@@ -1,8 +1,16 @@
+**Course:** Mobile Application Development (INFT 425)   
+**Instructor Guidance:** Kobbina Ewuul Nkechukwu Amoah   
+**Attribution:** This project was developed under the direct instruction and structured 
+guidance of the course instructor. All core features, implementation patterns, and 
+technical decisions reflect the curriculum and weekly activities of this course. 
+
 # campus_directory_week3
 
 A new Flutter project.
 
 ## Getting Started
+
+This is my third project in mobile development and this project is a campus directory project.
 
 This project is a starting point for a Flutter application.
 
